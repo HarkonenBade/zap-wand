@@ -1,4 +1,4 @@
-update=17-Jul-16 3:39:19 PM
+update=17-Jul-16 11:13:08 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=agg-kicad/agg-kicad
+LibName31=nc7wz02
+LibName32=ncp103
