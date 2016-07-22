@@ -1,4 +1,4 @@
-update=21-Jul-16 1:52:32 PM
+update=Fri 22 Jul 2016 14:10:39 BST
 version=1
 last_client=kicad
 [pcbnew]
@@ -73,3 +73,4 @@ LibName30=agg-kicad/agg-kicad
 LibName31=nc7wz02
 LibName32=ncp103
 LibName33=ncp4683dsqxxt1g
+LibName34=nc7sz86

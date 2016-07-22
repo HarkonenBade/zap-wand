@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name agg)(type KiCad)(uri "$(KIPRJMOD)/agg-kicad/agg.pretty")(options "")(descr ""))
   (lib (name agg-dev)(type KiCad)(uri "$(KIPRJMOD)/../agg-kicad-dev/agg.pretty")(options "")(descr ""))
+  (lib (name parts)(type KiCad)(uri "$(KIPRJMOD)/parts.pretty")(options "")(descr ""))
 )
